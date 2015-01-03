@@ -4,6 +4,7 @@ mic8decompressor
 #### Hardware Implementation of an Image Decompressor (Incomplete)
 
 This was submitted for the final project of Dr. Nicola Nicolici's Digital Systems Design course at McMaster University. It takes a .mic8 file (McMaster Image Compression Revision 8) and decompresses it into a .ppm file.  
+  
 Coded in Verilog and intended for the Altera DE2 board.
 
 #### Included: 
