@@ -1,0 +1,14 @@
+
+
+# add waves to waveform
+add wave Clock_50
+add wave -divider {some label for my divider}
+#add wave uut/*
+#add wave uut/M1_unit/*
+add wave uut/M2_unit/*
+add wave uut/SRAM_we_n
+add wave -hexadecimal uut/SRAM_write_data
+#add wave -hexadecimal uut/M1_unit/SRAM_write_data
+add wave -decimal uut/SRAM_read_data
+add wave -hexadecimal uut/SRAM_address
+
