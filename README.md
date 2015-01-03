@@ -8,9 +8,9 @@ This was submitted for the final project of Dr. Nicola Nicolici's Digital System
 Coded in Verilog and intended for the Altera DE2 board.
 
 #### Included: 
->Working Colourspace Conversion and Interpolation, with a constraint of a maximum of two multipliers per state (fastest theoretical run-time of 8.448 ms, actual run-time ~8.5 ms, achieved 100% utilzation) **[M1.v]**
+>Working Colourspace Conversion and Interpolation, with a constraint of a maximum of two multipliers per state (fastest theoretical run-time of 8.448 ms, actual run-time ~8.5 ms, achieved 100% utilization) **[main/M1.v]**
 
->Working Inverse Signal Transform **[M2.v]**
+>Working Inverse Signal Transform **[main/M2.v]**
 
 #### Missing:
 >Dequantization
